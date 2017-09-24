@@ -1,0 +1,10 @@
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\bin\Debug\MaximumSum.exe.config
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\bin\Debug\MaximumSum.exe
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\bin\Debug\MaximumSum.pdb
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\bin\Debug\MaximumSum.xml
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\obj\Debug\MaximumSum.vbprojResolveAssemblyReference.cache
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\obj\Debug\MaximumSum.Resources.resources
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\obj\Debug\MaximumSum.vbproj.GenerateResource.Cache
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\obj\Debug\MaximumSum.exe
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\obj\Debug\MaximumSum.xml
+E:\งาน ป.โท\Algor\MaximumSum\MaximumSum\obj\Debug\MaximumSum.pdb
